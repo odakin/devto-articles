@@ -8,7 +8,7 @@ id: 3376162
 date: '2026-03-20T10:42:13Z'
 ---
 
-> **Note:** This article is also available in [Japanese (日本語)](https://zenn.dev/odakin/articles/claude-code-multi-project/).
+> **Note:** This article is also available in [Japanese](https://zenn.dev/odakin/articles/claude-code-multi-project/).
 
 If you've used Claude Code seriously, you've hit this wall:
 

@@ -7,7 +7,7 @@ id: 3376252
 date: '2026-03-20T11:04:04Z'
 ---
 
-> **Note:** This article is also available in [Japanese (日本語)](https://zenn.dev/odakin/articles/64d591c7e2be9f/).
+> **Note:** This article is also available in [Japanese](https://zenn.dev/odakin/articles/64d591c7e2be9f/).
 
 ## Introduction
 
@@ -417,4 +417,4 @@ Incidentally, the nuance in the latter part of the screenshot—"strengthening d
 
 > **Series navigation**
 > [Part 1](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-i-coincidence-1643) (you are here) | [Part 2](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-ii-the-leverage-3eag)
->> [日本語版 (Japanese)](https://zenn.dev/odakin/articles/64d591c7e2be9f/)
+> [Japanese](https://zenn.dev/odakin/articles/64d591c7e2be9f/)

@@ -7,7 +7,7 @@ id: 3376251
 date: '2026-03-20T11:04:03Z'
 ---
 
-> **Note:** This article is also available in [Japanese (日本語)](https://zenn.dev/odakin/articles/45c18ff49d5ddc/).
+> **Note:** This article is also available in [Japanese](https://zenn.dev/odakin/articles/45c18ff49d5ddc/).
 
 ## Introduction
 
@@ -458,4 +458,4 @@ That said, the closing again writes "without retreating into smoke metaphors" an
 
 > **Series navigation**
 > [Part 1](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-i-coincidence-1643) | [Part 2](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-ii-the-leverage-3eag) (you are here)
->> [日本語版 (Japanese)](https://zenn.dev/odakin/articles/45c18ff49d5ddc/)
+> [Japanese](https://zenn.dev/odakin/articles/45c18ff49d5ddc/)

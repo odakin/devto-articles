@@ -57,6 +57,9 @@ zenn-articles-en/
 2. README.md の記事一覧を参照
 3. 変更後は commit + push
 
+## 英語記事のルール
+- **dev.to 記事（`*-devto.md`）に日本語・非 ASCII テキストを入れない。** リンクテキストも英語のみ（例: `[Japanese](URL)` ○、`[日本語版](URL)` ✗、`[Japanese (日本語)](URL)` ✗）。コードブロック内の記号（`←`, `→`, `―` 等）は許容。
+
 ## 安全規則（公開リポ）
 **このリポは public。** 以下を絶対にコミットしない:
 - 実名（GitHub ユーザー名 `odakin` は可）
