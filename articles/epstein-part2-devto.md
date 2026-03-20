@@ -12,7 +12,7 @@ date: '2026-03-20T11:04:03Z'
 ## Introduction
 
 > **Overview**
-> In [Part 1](#), <!-- TODO: update with dev.to URL after publish --> ChatGPT's initial report settled on "no corroboration in publicly available primary sources → low probability," and odakin's repeated challenges couldn't get the conclusion to budge. In Part 2, odakin shows Claude the entire ChatGPT exchange and asks for a peer review. Through five rounds of shuttle peer review between Claude and ChatGPT, the conclusion shifts five times. Then odakin puts questions directly to Claude, the core concept of "the leverage structure" is born, and the final conclusion is reached.
+> In [Part 1](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-i-coincidence-1643), ChatGPT's initial report settled on "no corroboration in publicly available primary sources → low probability," and odakin's repeated challenges couldn't get the conclusion to budge. In Part 2, odakin shows Claude the entire ChatGPT exchange and asks for a peer review. Through five rounds of shuttle peer review between Claude and ChatGPT, the conclusion shifts five times. Then odakin puts questions directly to Claude, the core concept of "the leverage structure" is born, and the final conclusion is reached.
 
 > **Warning:**
 > **Where we ended up**
@@ -457,6 +457,5 @@ That said, the closing again writes "without retreating into smoke metaphors" an
 ---
 
 > **Series navigation**
-> [Part 1](#) | [Part 2](#) (you are here)
-> <!-- TODO: update Part 1 and Part 2 links with dev.to URLs after publish -->
-> [日本語版 (Japanese)](https://zenn.dev/odakin/articles/45c18ff49d5ddc/)
+> [Part 1](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-i-coincidence-1643) | [Part 2](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-ii-the-leverage-3eag) (you are here)
+>> [日本語版 (Japanese)](https://zenn.dev/odakin/articles/45c18ff49d5ddc/)

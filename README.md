@@ -10,13 +10,13 @@ Each article has two versions:
 
 | Article | Zenn source | dev.to version | Status |
 |---------|-------------|----------------|--------|
-| AIs Distort Evidence (Part 1) | `36225f978acbaa.md` | — | Published (Zenn) |
-| AIs Distort Evidence (Part 2) | `90ba7a1bdeeed7.md` | — | Published (Zenn) |
-| Solving Claude Code's Memory Loss | `claude-code-multi-project-en.md` | `claude-code-multi-project-devto.md` | Draft |
+| AIs Distort Evidence (Part 1) | `36225f978acbaa.md` | `epstein-part1-devto.md` | Published |
+| AIs Distort Evidence (Part 2) | `90ba7a1bdeeed7.md` | `epstein-part2-devto.md` | Published |
+| Solving Claude Code's Memory Loss | `claude-code-multi-project-en.md` | `claude-code-multi-project-devto.md` | Published |
 
 ## TODO
 
 - [x] ~~Create dev.to account~~
-- [ ] Post "Solving Claude Code's Memory Loss" to dev.to
-- [ ] Cross-post Epstein articles to dev.to
+- [x] ~~Post "Solving Claude Code's Memory Loss" to dev.to~~
+- [x] ~~Cross-post Epstein articles to dev.to~~
 - [ ] Consider renaming repo (no longer Zenn-specific)
