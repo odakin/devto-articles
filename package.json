@@ -1,0 +1,23 @@
+{
+  "name": "zenn-articles-en",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odakin/zenn-articles-en.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odakin/zenn-articles-en/issues"
+  },
+  "homepage": "https://github.com/odakin/zenn-articles-en#readme",
+  "description": "",
+  "dependencies": {
+    "zenn-cli": "^0.4.6"
+  }
+}
