@@ -1,7 +1,7 @@
 # zenn-articles-en
 
 ## 概要
-Zenn.dev 英語記事の一元管理リポ。zenn-cli + GitHub 連携で自動デプロイ。
+英語記事のソース管理リポ。投稿先は dev.to（Zenn は日本語専用）。
 
 ## リポジトリ情報
 - パス: `~/Claude/zenn-articles-en/`
@@ -20,11 +20,10 @@ zenn-articles-en/
 ```
 
 ## 運用
-- 記事の追加: `npx zenn new:article --slug my-slug` → 編集 → push
-- プレビュー: `npx zenn preview` → http://localhost:8000
-- 公開: frontmatter の `published: false` → `true` に変えて push
-- デプロイ: GitHub 連携により `articles/` を含む push で自動デプロイ
-- **記事は英語のみ。** 日本語記事は `odakin/zenn-articles` に格納
+- 記事ソースは `articles/` に格納（Zenn 形式 Markdown）
+- ローカルプレビュー: `npx zenn preview` → http://localhost:8000
+- dev.to への投稿は手動（Markdown をコピペ or dev.to API）
+- **英語のみ。** 日本語記事は `odakin/zenn-articles` に格納
 
 ## How to Resume
 1. SESSION.md は不要（記事リポのため）
