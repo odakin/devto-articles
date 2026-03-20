@@ -4,6 +4,7 @@ tags: 'ai, chatgpt, claude, conspiracy'
 published: true
 description: 'In Part 2, Claude peer-reviews ChatGPT''s Epstein report. Through five rounds of shuttle review, the conclusion shifts five times—same evidence, different posture.'
 id: 3376251
+date: '2026-03-20T11:04:03Z'
 ---
 
 > **Note:** This article is also available in [Japanese (日本語)](https://zenn.dev/odakin/articles/45c18ff49d5ddc/).

@@ -4,6 +4,7 @@ tags: 'ai, chatgpt, claude, conspiracy'
 published: true
 description: 'A three-way dialogue where ChatGPT, a human, and Claude debate the Epstein-Mossad theory—and ChatGPT''s conclusion shifts five times without any new evidence.'
 id: 3376252
+date: '2026-03-20T11:04:04Z'
 ---
 
 > **Note:** This article is also available in [Japanese (日本語)](https://zenn.dev/odakin/articles/64d591c7e2be9f/).
