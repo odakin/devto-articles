@@ -1,8 +1,10 @@
 ---
-title: I Wrote 82 Regex Replacements to Parse 6,933 Time Format Variations From a Government Dataset
+title: 'I Wrote 82 Regex Replacements to Parse 6,933 Time Format Variations From a Government Dataset'
 published: true
-description: A Japanese government pharmacy dataset has free-text business hours with 6,933 unique formats. This is the story of parsing them — and knowing when to stop.
+description: 'A Japanese government pharmacy dataset has free-text business hours with 6,933 unique formats. This is the story of parsing them — and knowing when to stop.'
 tags: 'javascript, regex, opendata, webdev'
+id: 3380538
+date: '2026-03-21T14:15:31Z'
 ---
 
 > **Note:** This article is also available in [Japanese](https://zenn.dev/odakin/articles/zenn-hours-parser/).

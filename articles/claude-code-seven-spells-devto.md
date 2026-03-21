@@ -1,8 +1,10 @@
 ---
 title: 7 Phrases That Make Claude Code Actually Reliable — Lessons From 20+ Projects
 published: true
-description: Battle-tested prompting patterns and workflow tricks for Claude Code that prevent context loss, catch documentation drift, and stop recurring mistakes.
+description: 'Battle-tested prompting patterns and workflow tricks for Claude Code that prevent context loss, catch documentation drift, and stop recurring mistakes.'
 tags: 'ai, productivity, devtools, claude'
+id: 3380539
+date: '2026-03-21T14:15:34Z'
 ---
 
 > **Note:** This is a sequel to [Solving Claude Code's Memory Loss](https://dev.to/odakin/solving-claude-codes-memory-loss-multi-project-design-patterns-4f5n). It assumes familiarity with the CLAUDE.md / SESSION.md pattern.
