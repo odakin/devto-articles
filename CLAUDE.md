@@ -1,16 +1,16 @@
-# zenn-articles-en
+# devto-articles
 
 ## 概要
 英語記事のソース管理リポ。投稿先は dev.to（Zenn は日本語専用）。
 
 ## リポジトリ情報
-- パス: `~/Claude/zenn-articles-en/`
+- パス: `~/Claude/devto-articles/`
 - ブランチ: `main`
-- リモート: `odakin/zenn-articles-en` (public, GitHub)
+- リモート: `odakin/devto-articles` (public, GitHub)
 
 ## 構造
 ```
-zenn-articles-en/
+devto-articles/
 ├── CLAUDE.md        # このファイル
 ├── README.md        # 記事一覧・使い方
 ├── .github/workflows/

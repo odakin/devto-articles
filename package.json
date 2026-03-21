@@ -1,5 +1,5 @@
 {
-  "name": "zenn-articles-en",
+  "name": "devto-articles",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,15 +7,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/odakin/zenn-articles-en.git"
+    "url": "git+https://github.com/odakin/devto-articles.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/odakin/zenn-articles-en/issues"
+    "url": "https://github.com/odakin/devto-articles/issues"
   },
-  "homepage": "https://github.com/odakin/zenn-articles-en#readme",
+  "homepage": "https://github.com/odakin/devto-articles#readme",
   "description": "",
   "dependencies": {
     "zenn-cli": "^0.4.6"
