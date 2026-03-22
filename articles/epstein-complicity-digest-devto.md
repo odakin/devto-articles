@@ -1,8 +1,9 @@
 ---
-title: 'Who Protected Epstein? The Complicity Structure'
+title: Who Protected Epstein? The Complicity Structure
 tags: 'ai, chatgpt, conspiracy, analysis'
 published: false
-description: "Neither 'the system failed' nor 'Mossad spy' fits the evidence. A third reading emerges from making two AIs debate five rounds."
+description: Neither 'the system failed' nor 'Mossad spy' fits the evidence. A third reading emerges from making two AIs debate five rounds.
+id: 3382135
 ---
 
 > **Digest** — This is a short, standalone article about what the evidence actually says. For the AI behavior patterns, see [ChatGPT Thought 'Suspicious' but Wrote 'Unlikely'](https://dev.to/odakin/chatgpt-thought-suspicious-but-wrote-unlikely-4p1o). For the full three-way dialogue (900+ lines), see [Part 1](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-i-coincidence-1643) | [Part 2](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-ii-the-leverage-3eag).
