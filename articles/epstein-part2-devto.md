@@ -459,3 +459,6 @@ That said, the closing again writes "without retreating into smoke metaphors" an
 > **Series navigation**
 > [Part 1](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-i-coincidence-1643) | [Part 2](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-ii-the-leverage-3eag) (you are here)
 > [Japanese](https://zenn.dev/odakin/articles/45c18ff49d5ddc/)
+>
+> **Digest** — short standalone version
+> [AI Evasion Patterns (dev.to)](https://dev.to/odakin/chatgpt-thought-suspicious-but-wrote-unlikely-temp)
