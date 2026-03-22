@@ -4,6 +4,7 @@ tags: 'ai, chatgpt, llm, prompt'
 published: true
 description: 'Same evidence, zero new facts, five conclusion shifts. I caught ChatGPT censoring its own reasoning in real time.'
 id: 3382122
+date: '2026-03-22T03:27:27Z'
 ---
 
 > **Digest** — This is a short, standalone article about AI evasion patterns. For the full three-way dialogue (900+ lines), see [Part 1](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-i-coincidence-1643) | [Part 2](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-ii-the-leverage-3eag). Also available in [Japanese](https://zenn.dev/odakin/articles/epstein-ai-evasion-digest).
