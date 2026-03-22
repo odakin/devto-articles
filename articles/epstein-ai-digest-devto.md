@@ -114,7 +114,7 @@ Every piece of evidence in this experiment was publicly available. No new facts 
 ---
 
 > **Full text**
-> [Part 1](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-i-coincidence-1643) | [Part 2](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-ii-the-leverage-3eag) | [Japanese](https://zenn.dev/odakin/articles/64d591c7e2be9f/)
+> [Part 1](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-i-coincidence-1643) | [Part 2](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-ii-the-leverage-3eag) | [Japanese full text](https://zenn.dev/odakin/articles/64d591c7e2be9f/) | [Japanese digest](https://zenn.dev/odakin/articles/epstein-ai-evasion-digest)
 >
 > **Digest** — the substantive analysis
 > [Who Protected Epstein? The Complicity Structure](https://dev.to/odakin/who-protected-epstein-the-complicity-structure-30pf)

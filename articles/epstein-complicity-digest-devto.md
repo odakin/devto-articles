@@ -7,7 +7,7 @@ id: 3382135
 date: '2026-03-22T03:32:37Z'
 ---
 
-> **Digest** — This is a short, standalone article about what the evidence actually says. For the AI behavior patterns, see [ChatGPT Thought 'Suspicious' but Wrote 'Unlikely'](https://dev.to/odakin/chatgpt-thought-suspicious-but-wrote-unlikely-4p1o). For the full three-way dialogue (900+ lines), see [Part 1](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-i-coincidence-1643) | [Part 2](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-ii-the-leverage-3eag).
+> **Digest** — This is a short, standalone article about what the evidence actually says. For the AI behavior patterns, see [ChatGPT Thought 'Suspicious' but Wrote 'Unlikely'](https://dev.to/odakin/chatgpt-thought-suspicious-but-wrote-unlikely-4p1o). For the full three-way dialogue (900+ lines), see [Part 1](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-i-coincidence-1643) | [Part 2](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-ii-the-leverage-3eag). Also available in [Japanese](https://zenn.dev/odakin/articles/epstein-substack-digest).
 
 ---
 
@@ -81,7 +81,7 @@ And the structure is not unique to Epstein. **Anywhere power concentrates and mu
 ---
 
 > **Full text**
-> [Part 1](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-i-coincidence-1643) | [Part 2](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-ii-the-leverage-3eag) | [Japanese](https://zenn.dev/odakin/articles/64d591c7e2be9f/)
+> [Part 1](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-i-coincidence-1643) | [Part 2](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-ii-the-leverage-3eag) | [Japanese full text](https://zenn.dev/odakin/articles/64d591c7e2be9f/) | [Japanese digest](https://zenn.dev/odakin/articles/epstein-substack-digest)
 >
 > **Digests**
 > [AI Evasion Patterns](https://dev.to/odakin/chatgpt-thought-suspicious-but-wrote-unlikely-4p1o) | [Who Protected Epstein?](https://dev.to/odakin/who-protected-epstein-the-complicity-structure-30pf) (this article)
