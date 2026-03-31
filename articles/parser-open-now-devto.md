@@ -1,5 +1,5 @@
 ---
-title: "Your 97% Parser Shipped. Then Users Wanted 'Open Now'."
+title: "Your 97% Parser Shipped. Then You Wanted 'Open Now'."
 published: false
 description: "A regex parser for messy government data hit 97% coverage and shipped. Then came the 'Open Now' filter — and a whole new category of bugs where correct parsing produced wrong answers."
 tags: 'javascript, regex, opendata, webdev'
@@ -13,13 +13,13 @@ tags: 'javascript, regex, opendata, webdev'
 
 I built a [pharmacy search tool](https://odakin.github.io/mhlw-ec-pharmacy-finder/) for Japan's emergency contraception pharmacy dataset. The business hours field was free-text with 6,933 unique formats. I wrote a parser with 82 regex replacements, hit 97.1% coverage, and called it done.
 
-The article got a nice reception. The tool shipped. Users found it. And then:
+The article got a nice reception. The tool shipped. And almost immediately, using my own tool, I wanted one more thing:
 
-> "Can you add a filter for pharmacies that are open right now?"
+**"Show me only the pharmacies that are open right now."**
 
-Sounds simple. The hours are already parsed. Just check if `now` falls within today's time range. Ship it in an afternoon.
+Sounds simple. The hours are already parsed. Just check if `now` falls within today's time range. Ship it in an evening.
 
-It took two weeks and surfaced a class of bugs I hadn't imagined: cases where the parser was **technically correct but practically wrong**.
+The filter itself worked in one night. But it surfaced a class of bugs I hadn't imagined — cases where the parser was **technically correct but practically wrong** — and the fixes kept coming for days after.
 
 ## The Problem With "Correct"
 
