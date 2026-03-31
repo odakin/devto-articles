@@ -7,6 +7,8 @@ id: 3436511
 date: '2026-03-31T13:42:10Z'
 ---
 
+> **Japanese version:** [Zenn (Japanese)](https://zenn.dev/odakin/articles/claude-code-guardrails)
+>
 > This is the third in a series. The first two: [Solving Claude Code's Memory Loss](https://dev.to/odakin/solving-claude-codes-memory-loss-multi-project-design-patterns-4f5n) and [7 Phrases That Make Claude Code Actually Reliable](https://dev.to/odakin/7-phrases-that-make-claude-code-actually-reliable-lessons-from-20-projects-52e5). You don't need to read them, but they give context.
 
 Here's something I learned the hard way: writing rules for an AI coding assistant is easy. Getting it to actually follow them is a different sport entirely.
