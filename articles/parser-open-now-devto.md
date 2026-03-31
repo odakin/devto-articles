@@ -1,8 +1,9 @@
 ---
-title: "Your 97% Parser Shipped. Then You Wanted 'Open Now'."
+title: Your 97% Parser Shipped. Then You Wanted 'Open Now'.
 published: false
-description: "A regex parser for messy government data hit 97% coverage and shipped. Then came the 'Open Now' filter — and a whole new category of bugs where correct parsing produced wrong answers."
+description: A regex parser for messy government data hit 97% coverage and shipped. Then came the 'Open Now' filter — and a whole new category of bugs where correct parsing produced wrong answers.
 tags: 'javascript, regex, opendata, webdev'
+id: 3438185
 ---
 
 > **Japanese version:** [Zenn (Japanese)](https://zenn.dev/odakin/articles/parser-open-now)
