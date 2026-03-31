@@ -1,8 +1,10 @@
 ---
-title: "Stop Babysitting Your AI — How I Made Claude Code Enforce Its Own Rules"
+title: Stop Babysitting Your AI — How I Made Claude Code Enforce Its Own Rules
 published: true
-description: "Hooks that block bad writes, file budgets that prevent bloat, and a 4-axis review that catches what humans miss. All enforced by Claude itself."
+description: 'Hooks that block bad writes, file budgets that prevent bloat, and a 4-axis review that catches what humans miss. All enforced by Claude itself.'
 tags: 'ai, productivity, devtools, claude'
+id: 3436511
+date: '2026-03-31T13:42:10Z'
 ---
 
 > This is the third in a series. The first two: [Solving Claude Code's Memory Loss](https://dev.to/odakin/solving-claude-codes-memory-loss-multi-project-design-patterns-4f5n) and [7 Phrases That Make Claude Code Actually Reliable](https://dev.to/odakin/7-phrases-that-make-claude-code-actually-reliable-lessons-from-20-projects-52e5). You don't need to read them, but they give context.
