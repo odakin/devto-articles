@@ -1,7 +1,7 @@
 ---
-title: "Parsing Text Correctly Doesn't Mean Your Answers Are Right"
+title: Parsing Text Correctly Doesn't Mean Your Answers Are Right
 published: false
-description: "My regex parser hit 98% coverage. Then I tried using the output to answer 'is this pharmacy open RIGHT NOW?' and discovered that correct parsing and correct answers are two different things."
+description: My regex parser hit 98% coverage. Then I tried using the output to answer 'is this pharmacy open RIGHT NOW?' and discovered that correct parsing and correct answers are two different things.
 tags: 'javascript, regex, opendata, webdev'
 id: 3438185
 ---
