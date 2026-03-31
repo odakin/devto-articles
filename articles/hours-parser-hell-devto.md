@@ -295,4 +295,4 @@ Parser code: [`docs/app.js`](https://github.com/odakin/mhlw-ec-pharmacy-finder/b
 
 Live site: [Emergency Contraception Pharmacy Search](https://odakin.github.io/mhlw-ec-pharmacy-finder/) — searches 10,000+ pharmacies and 2,900+ clinics from Japan's official MHLW data.
 
-> **Sequel:** [Your 97% Parser Shipped. Then Users Wanted 'Open Now'.](https://dev.to/odakin/your-97-parser-shipped-then-users-wanted-open-now-temp-slug) (link updated after publication)
+> **Sequel:** [Parsing Text Correctly Doesn't Mean Your Answers Are Right](https://dev.to/odakin/parsing-text-correctly-doesnt-mean-your-answers-are-right-temp-slug) (link updated after publication)
