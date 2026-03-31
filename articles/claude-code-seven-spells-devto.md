@@ -9,11 +9,11 @@ date: '2026-03-21T14:15:34Z'
 
 > **Japanese version:** [Zenn (Japanese)](https://zenn.dev/odakin/articles/cc-seven-spells)
 >
-> **Note:** This is a sequel to [Solving Claude Code's Memory Loss](https://dev.to/odakin/solving-claude-codes-memory-loss-multi-project-design-patterns-4f5n). It assumes familiarity with the CLAUDE.md / SESSION.md pattern.
+> **Note:** This is a sequel to [Solving Claude Code's Memory Loss](https://dev.to/odakin/solving-claude-codes-memory-loss-multi-project-design-patterns-3kjm). It assumes familiarity with the CLAUDE.md / SESSION.md pattern.
 
 Claude Code is powerful. It's also sloppy if you let it be.
 
-After running 20+ projects with the [CLAUDE.md / SESSION.md](https://dev.to/odakin/solving-claude-codes-memory-loss-multi-project-design-patterns-4f5n) pattern, I've found specific phrases and habits that dramatically improve output quality. Not vague "prompt engineering" — concrete, repeatable patterns born from real incidents.
+After running 20+ projects with the [CLAUDE.md / SESSION.md](https://dev.to/odakin/solving-claude-codes-memory-loss-multi-project-design-patterns-3kjm) pattern, I've found specific phrases and habits that dramatically improve output quality. Not vague "prompt engineering" — concrete, repeatable patterns born from real incidents.
 
 Here are seven of them.
 
@@ -244,5 +244,5 @@ Claude Code is powerful, but left unsupervised it produces sloppy work. These ph
 
 {% github odakin/claude-config %}
 
-Previous article: [Solving Claude Code's Memory Loss — Multi-Project Design Patterns](https://dev.to/odakin/solving-claude-codes-memory-loss-multi-project-design-patterns-4f5n)
+Previous article: [Solving Claude Code's Memory Loss — Multi-Project Design Patterns](https://dev.to/odakin/solving-claude-codes-memory-loss-multi-project-design-patterns-3kjm)
 Next article: [Stop Babysitting Your AI — How I Made Claude Code Enforce Its Own Rules](https://dev.to/odakin/stop-babysitting-your-ai-how-i-made-claude-code-enforce-its-own-rules-jmm)
