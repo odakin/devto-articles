@@ -308,6 +308,10 @@ The core insight: **make Claude manage its own documentation**. Don't take notes
 
 ---
 
+> **Sequels to this article:**
+> - [7 Phrases That Make Claude Code Actually Reliable](https://dev.to/odakin/7-phrases-that-make-claude-code-actually-reliable-lessons-from-20-projects-52e5)
+> - [Stop Babysitting Your AI — How I Made Claude Code Enforce Its Own Rules](https://dev.to/odakin/stop-babysitting-your-ai-how-i-made-claude-code-enforce-its-own-rules-jmm)
+
 > **Note: How This Differs from Claude Code's Built-in Memory**
 >
 > Claude Code has a built-in memory system (`~/.claude/` files), but it serves a different purpose — recording user preferences and behavioral patterns. For project work state management, SESSION.md is more appropriate:
