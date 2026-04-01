@@ -58,7 +58,7 @@ devto-articles/
 - **英語のみ。** 日本語記事は `odakin/zenn-articles` に格納
 
 ## How to Resume
-1. SESSION.md は不要（記事リポのため）
+1. SESSION.md を読む → 現在状態と残タスクを把握
 2. README.md の記事一覧を参照
 3. 変更後は commit + push
 
