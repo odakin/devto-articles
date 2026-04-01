@@ -14,9 +14,9 @@ id: 3438185
 
 I built a [pharmacy search tool](https://odakin.github.io/mhlw-ec-pharmacy-finder/) for Japan's emergency contraception dataset — 10,000+ pharmacies with free-text business hours, 6,933 unique formats, 82 regex replacements, 97% coverage. [Wrote about it.](https://dev.to/odakin/i-wrote-82-regex-replacements-to-parse-6933-time-format-variations-from-a-government-dataset-4mfj) Shipped it. Felt good.
 
-Then I started actually using the thing.
+Then I started testing the thing for real.
 
-Within two days I was annoyed. I'm looking at 50 pharmacies near me. It's Saturday afternoon. Most of them are closed. But I'm scrolling through all of them because there's no way to filter by "open right now."
+I'm looking at search results on a Saturday afternoon. 50 pharmacies listed. Most of them are obviously closed, but they're all showing. If someone actually needs this — and they do, it's emergency contraception — they'd be scrolling through closed pharmacies one by one, reading hours text, doing the mental math. That's a terrible experience for someone in a time-sensitive situation.
 
 The hours are already parsed into structured data. Checking `if (now >= open && now < close)` should be trivial. I sat down one evening and had it working by midnight.
 
@@ -119,7 +119,7 @@ The denominator grew (the government keeps adding pharmacies) but the percentage
 
 ## What I Learned
 
-**Eat your own dogfood, immediately.** The "open now" feature wasn't a user request — it was me using my own tool and getting frustrated. If I hadn't used it myself within the first 48 hours, the holiday bug would have shipped quietly and given wrong answers for months.
+**Test like a user, not a developer.** The "open now" feature came from looking at my own tool on a Saturday and thinking "this would be useless to someone who actually needs it right now." If I hadn't put myself in the user's shoes, the holiday bug would have shipped quietly and given wrong answers for months.
 
 **Parsing and interpreting are different layers.** The parser converts text to structure. Interpretation evaluates that structure against context (today's date, holiday calendar, closed-day rules). Most of the bugs in this round weren't parse failures. The data was structured correctly — it just answered the wrong question.
 
