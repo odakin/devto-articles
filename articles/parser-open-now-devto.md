@@ -1,7 +1,7 @@
 ---
-title: "My AI Coding Assistant Misapplied the Design Principle I Gave It"
+title: My AI Coding Assistant Misapplied the Design Principle I Gave It
 published: false
-description: "I told Claude Code: 'missing info is better than wrong info.' Claude took that principle and used it to justify silently discarding data. I trusted it and didn't notice for a week."
+description: 'I told Claude Code: ''missing info is better than wrong info.'' Claude took that principle and used it to justify silently discarding data. I trusted it and didn''t notice for a week.'
 tags: 'javascript, regex, opendata, webdev'
 id: 3438185
 ---
