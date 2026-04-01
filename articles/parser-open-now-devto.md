@@ -4,6 +4,7 @@ published: true
 description: 'I told Claude Code: ''missing info is better than wrong info.'' Claude took that principle and used it to justify silently discarding data. I trusted it and didn''t notice for a week.'
 tags: 'javascript, regex, opendata, webdev'
 id: 3438185
+date: '2026-04-01T00:36:02Z'
 ---
 
 > **Japanese version:** [Zenn (Japanese)](https://zenn.dev/odakin/articles/parser-open-now)
