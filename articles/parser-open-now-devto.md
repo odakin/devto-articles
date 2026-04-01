@@ -1,7 +1,7 @@
 ---
-title: "How I Misapplied My Own Design Principle and Shipped Wrong Answers"
+title: How I Misapplied My Own Design Principle and Shipped Wrong Answers
 published: false
-description: "I built a parser with the principle 'missing info is better than wrong info.' Sounds solid. Turns out I was categorizing 'wrong' as 'missing' and didn't notice for a week."
+description: I built a parser with the principle 'missing info is better than wrong info.' Sounds solid. Turns out I was categorizing 'wrong' as 'missing' and didn't notice for a week.
 tags: 'javascript, regex, opendata, webdev'
 id: 3438185
 ---
