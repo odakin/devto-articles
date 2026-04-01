@@ -12,15 +12,15 @@ id: 3438185
 
 ## The Setup
 
-In the [previous article](https://dev.to/odakin/i-wrote-82-regex-replacements-to-parse-6933-time-format-variations-from-a-government-dataset-4mfj), I built a parser for Japan's emergency contraception pharmacy dataset with [Claude Code](https://docs.anthropic.com/en/docs/claude-code) — free-text business hours, 6,933 formats, 82 regex replacements, 97% coverage.
+In the [previous article](https://dev.to/odakin/i-wrote-82-regex-replacements-to-parse-6933-time-format-variations-from-a-government-dataset-4mfj), I had [Claude Code](https://docs.anthropic.com/en/docs/claude-code) build a parser for Japan's emergency contraception pharmacy dataset — free-text business hours, 6,933 formats, 82 regex replacements, 97% coverage.
 
-The most important thing I established wasn't code. It was a design principle:
+The most important thing that came out of the project wasn't code. It was a design principle that Claude established and I approved:
 
 > **Missing info > Wrong info.**
 
 If the parser can't handle an entry, show the raw text. Don't guess. For a tool that helps people find emergency medication, a wrong answer is worse than no answer.
 
-I wrote this into the project's design docs. Claude Code read it. Claude Code followed it. And Claude Code used it to justify something I didn't intend.
+Claude wrote this into the project's design docs. Claude followed it. And Claude used it to justify something neither of us caught at the time.
 
 ## What Claude Did
 
@@ -44,7 +44,7 @@ But here's the thing: the tool now actively displays Wednesday as a working day 
 
 ## How I Caught It
 
-After shipping, I checked the tool on a Saturday afternoon. Search results: 50 pharmacies, most closed but all showing. If someone actually needs emergency contraception, they'd be scrolling through closed pharmacies one by one. So I built an "Open Now" filter one evening.
+After shipping, I checked the tool on a Saturday afternoon. Search results: 50 pharmacies, most closed but all showing. If someone actually needs emergency contraception, they'd be scrolling through closed pharmacies one by one. So I had Claude build an "Open Now" filter one evening.
 
 The filter made the error impossible to miss. A schedule grid showing Wednesday hours is easy to overlook. A filter declaring "Open" on a Wednesday when the pharmacy is closed on Wednesdays — that's a binary, definitive wrong answer.
 
