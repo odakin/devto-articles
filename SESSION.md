@@ -7,6 +7,10 @@
 - [ ] `parser-open-now-devto.md` の Zenn 日本語版リンクを正しい URL に更新（Zenn 側が公開されたら）
 - [ ] `hours-parser-hell-devto.md` の続編リンク URL を公開後の正式 URL に更新（現在 temp-slug）
 
+## 記事候補（未着手）
+
+- "What 'Claude Code Skills' articles get wrong"（英語版）— 詳細メモは個人層 `odakin-prefs/blog-ideas.md` 参照
+
 ## 直近の作業（2026-04-01）
 
 - Claude Code 続編 `claude-code-self-policing-devto` を公開
