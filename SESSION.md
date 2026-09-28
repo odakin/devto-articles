@@ -1,5 +1,7 @@
 # SESSION — devto-articles
 
+> 📌 SESSION.md = 案件ごとの現在地 + 正本への link (進んだら置き換える、 日付を見出しにした節・commit hash・messageId を置かない = 層1 claude-config/CONVENTIONS.md#session-no-durable-record)。 日付つきの節は SESSION-archive.md へ verbatim MOVE 済 (2026-09-28)。
+
 ## 現在の状態
 **完了**: 直近の記事は全て公開済み
 
@@ -10,10 +12,3 @@
 ## 記事候補（未着手）
 
 - "What 'Claude Code Skills' articles get wrong"（英語版）— 詳細メモは個人層 `odakin-prefs/blog-ideas.md` 参照
-
-## 直近の作業（2026-04-01）
-
-- Claude Code 続編 `claude-code-self-policing-devto` を公開
-- パーサー続編 `parser-open-now-devto` を公開
-- 全 Claude Code シリーズ（3本）と全パーサーシリーズ（2本）の相互リンク整備
-- 既存記事の壊れた URL サフィックス 2件を修正
